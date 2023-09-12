@@ -1,0 +1,6 @@
+github.com/akbarnuri/gosay_hello v1.0.0 h1:+9ZLNGrRGhHJUywKIlojOeG9sJCvLKvexY0LTOUnuiA=
+github.com/akbarnuri/gosay_hello v1.0.0/go.mod h1:HK6thO8Y3t1xjhs8NsS2BvzhW++WvGsoeEFJ668barc=
+github.com/akbarnuri/gosay_hello v1.5.0 h1:cxhbuHfDgfpyZ/7cKBsNDw4vH9q2ieiHOB27DyGZq+Y=
+github.com/akbarnuri/gosay_hello v1.5.0/go.mod h1:HK6thO8Y3t1xjhs8NsS2BvzhW++WvGsoeEFJ668barc=
+github.com/akbarnuri/gosay_hello/v2 v2.0.0 h1:Y7vFuREFSQDKdcpHYRp04hHDtm7joeMyz2B0la17vJA=
+github.com/akbarnuri/gosay_hello/v2 v2.0.0/go.mod h1:4bmZzfGF0zUC/MX16OBMsj9mKD4GdPDY+vtKDNiLcUY=
